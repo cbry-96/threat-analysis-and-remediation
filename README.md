@@ -323,7 +323,7 @@ Bootcamp de Ciberseguridad — 4Geeks Academy
 *Proyecto desarrollado con fines educativos en entorno de laboratorio controlado.*
 *Todo el pentesting se realizó en sistemas propios con autorización explícita.*
 
-**4Geeks Academy · Bootcamp de Ciberseguridad · 2025**
+**4Geeks Academy · Bootcamp de Ciberseguridad · 2026**
 
 </div>
 # análisis-y-remediación-de-amenazas

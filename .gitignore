@@ -1,0 +1,16 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Archivos de contraseñas o credenciales reales
+*.env
+secrets.txt
+passwords.txt
+
+# Archivos temporales
+*.log
+*.bak
+
+# Packet Tracer backups
+*.pkt.bak
