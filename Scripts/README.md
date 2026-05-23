@@ -4,7 +4,7 @@
 
 Script de backup automatizado implementado como control **A.8.13 — Respaldo de Información**.
 
-### Instalación en el servidor
+### Instalación en el servidor.
 
 ```bash
 # Copiar al servidor
