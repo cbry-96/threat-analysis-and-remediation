@@ -1,6 +1,6 @@
 # 📁 Red — Diagramas de Topología
 
-## Archivos
+## Archivos.
 
 | Archivo | Descripción |
 |---------|-------------|

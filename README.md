@@ -86,7 +86,7 @@ Proyecto final del Bootcamp de Ciberseguridad de **4Geeks Academy** donde asumo 
 
 ## ⚔️ Fase 1 — Análisis Forense del Servidor Comprometido
 
-> 📄 **Documento:** [`docs/fase1/Informe_Incidente_Seguridad_Fase1.docx`](./docs/fase1/)
+> 📄 **Documento:** [`reportes/faseforence/Informe_Forence_Fase1.docx`](./reportes/faseforence/)
 
 ### Hallazgos identificados
 
