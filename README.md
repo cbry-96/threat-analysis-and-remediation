@@ -44,35 +44,34 @@ Proyecto final del Bootcamp de Ciberseguridad de **4Geeks Academy** donde asumo 
 ## 🗂️ Estructura del Repositorio
 
 ```
-📁 ciberseguridad-4geeks/
+📁 análisis y remediación de amenazas/
 │
 ├── 📄 README.md                          ← Este archivo
 │
 ├── 📁 docs/
 │   ├── 📁 fase1/                         ← Análisis forense
 │   │   ├── 📄 Informe_Incidente_Seguridad_Fase1.docx
+|   |   |   📄 Informe_Incidente_Seguridad_Fase1.pdf
 │   │   └── 📄 README.md
 │   │
 │   ├── 📁 fase2/                         ← Pentesting WordPress
 │   │   ├── 📄 Informe_Pentesting_WordPress_Fase2.docx
+|   |   |   📄 Informe_Pentesting_WordPress_Fase2.pdf
 │   │   └── 📄 README.md
 │   │
 │   ├── 📁 fase3/                         ← NIST + ISO 27001
 │   │   ├── 📄 Plan_Respuesta_SGSI_ISO27001_Fase3.docx
+│   │   ├── 📄 Plan_Respuesta_SGSI_ISO27001_Fase3.pdf
 │   │   └── 📄 README.md
 │   │
 │   └── 📁 presentacion/                  ← Presentación ejecutiva
 │       ├── 📄 Presentacion_Ejecutiva_Gerencia.pptx
 │       └── 📄 README.md
 │
-├── 📁 evidencias/
-│   ├── 📁 fase1/                         ← Capturas análisis forense
-│   │   └── 📄 README.md
-│   └── 📁 fase2/                         ← Capturas pentesting
-│       └── 📄 README.md
-│
 ├── 📁 red/                               ← Diagramas de red
 │   ├── 📄 diagrama-red.md
+│   ├── 📄 diagrama-red-packet.pkt
+│   ├── 📄 diagrama-red-packet.pdf
 │   └── 📄 README.md
 │
 ├── 📁 scripts/                           ← Scripts implementados
@@ -86,7 +85,7 @@ Proyecto final del Bootcamp de Ciberseguridad de **4Geeks Academy** donde asumo 
 
 ## ⚔️ Fase 1 — Análisis Forense del Servidor Comprometido
 
-> 📄 **Documento:** [`reportes/faseforence/Informe_Forence_Fase1.docx`](./reportes/faseforence/)
+> 📄 **Documento:** [`docs/fase1/Informe_Incidente_Seguridad_Fase1.docx`](./docs/fase1/)
 
 ### Hallazgos identificados
 
