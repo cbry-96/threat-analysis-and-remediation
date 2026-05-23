@@ -2,7 +2,7 @@
 
 # 🔐 Proyecto Final — Ciberseguridad
 ### Análisis Forense · Pentesting · ISO 27001
-#### 4Geeks Academy Bootcamp · Mayo 2025
+#### 4Geeks Academy Bootcamp · Mayo 2026
 
 ---
 
