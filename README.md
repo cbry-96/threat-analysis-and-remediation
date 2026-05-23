@@ -39,7 +39,7 @@ El proyecto se divide en tres fases progresivas que demuestran competencias en a
 | 🖥️ Sistema objetivo | Debian GNU/Linux 6.1.0-25-amd64 · `192.168.1.131` |
 | 🔴 Vulnerabilidades críticas | **3** (FTP expuesto, RCE WordPress, credenciales BD en texto plano) |
 | 🟠 Vulnerabilidades altas | **2** (Apache sin HTTPS, SSH sin hardening) |
-| ⏱️ Tiempo de exposición estimado | **~10 meses** (julio 2024 – mayo 2025) |
+| ⏱️ Tiempo de exposición estimado | **~22 meses** (julio 2024 – mayo 2026) |
 | ✅ Remediación | **100%** — todas las vulnerabilidades corregidas y verificadas |
 | ⚡ Tiempo para obtener RCE | **< 20 minutos** desde el reconocimiento inicial |
 
