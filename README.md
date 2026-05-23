@@ -300,7 +300,7 @@ ANTES (comprometida)          DESPUÉS (segura)
 
 <div align="center">
 
-**Bryan Calderón**
+**Bryan Calderón Herrera**
 Ingeniero en Redes y Telecomunicaciones
 Bootcamp de Ciberseguridad — 4Geeks Academy · 2026
 
